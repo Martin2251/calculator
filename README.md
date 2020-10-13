@@ -1,2 +1,2 @@
 # calculator
-Building a basic calculator using ruby
+Built a basic calculator script using ruby
